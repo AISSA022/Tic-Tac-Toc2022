@@ -9,5 +9,5 @@
 <li>Randint: generating random numbers by using the randint() function.</li>
 </ul>
 </h3>
-<h1>For More Info use:</h1>
-<h2>TIC_TAC_TEO.PPTX</h2>
+<h1>For More Info :</h1>
+<h3>TIC_TAC_TEO.PPTX File </h3>
